@@ -5,15 +5,15 @@ construido con n8n, Cohere, Vector Store y MySQL en Railway.
 
 ## Demo
 
-![Conversación en Telegram](images/telegram.jpeg)
+<img src="images/telegram.jpeg" width="350"/>
 
 ## Arquitectura del Workflow
 
-![Workflow en n8n](images/n8n.png)
+<img src="images/n8n.png" width="700"/>
 
 ## Base de Datos
 
-![MySQL en Railway](images/MySQL.png)
+<img src="images/MySQL.png" width="700"/>
 
 ## Stack Tecnológico
 
@@ -34,6 +34,6 @@ construido con n8n, Cohere, Vector Store y MySQL en Railway.
 
 ## Certificado
 
-![Certificado Inmersión Agentes de IA](images/certificado.pdf)
+<img src="images/certificado.png" width="700"/>
 
 Inmersión Agentes de IA — Oracle ONE + Alura (2026)
